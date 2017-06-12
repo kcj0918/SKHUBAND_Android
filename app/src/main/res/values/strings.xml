@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SKHUBAND</string>
+
+    <!--로그인 화면-->
+    <string name="login_title">성공회대학교\n동문관리 어플리케이션</string>
+    <string name="rain_together">함께맞는 비</string>
+    <string name="login_login">로그인</string>
+    <string name="login_find_pwd">비밀번호 찾기</string>
+
+    <!--카테고리 구성 -->
+    <string name="category1">함께맞는비</string>
+    <string name="category2">인문학습원</string>
+    <string name="category3">더불어숲</string>
+    <string name="category4">최고경영자과정</string>
+
+</resources>
